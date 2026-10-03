@@ -1,0 +1,27 @@
+
+#TODO_LIST
+
+NUMBER GUESSING GAME
+1.The system will ask the user to enter a choice of numbers from a given range.
+2.If the number is biggerr the input vale, the system will indicate "too high" then ask for another input
+3.If the imput is too low, the user will ask for a lower number
+4.If the number is right then the game will stop
+
+
+
+
+
+##Material needed
+1. Input
+To get input from the user in order to add the task
+2.A bool
+To find out if the task is completed or not yet done!!!
+2.List 
+Will use the lsit element to add,delete and update the tasks added to the TODO_LIST
+3.LOOP
+To run through the list of the task and manipulate the tasks
+4. If/Else
+This will help me check if the task is completed or not.
+
+My menu will show task
+Some task will be completed, some will not be completes, others can be set to pending
