@@ -3,9 +3,8 @@ import random
 
 arr=[]
 secret=random.randint(1,20)
+print("Welcome to SecretGuess:")
 while True:
-    print("Welcome to SecretGuess:")
-   
     user_input=input("Guess the secret number:").strip().lower()
     if user_input in ["quite","q"]:
         print("Game over, Thank you for playing")
